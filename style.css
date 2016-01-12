@@ -1,0 +1,16 @@
+.text{
+    background-color:yellow;
+}
+#some{
+     background-color:yellow;
+   
+}
+#stuff{
+     color:blue;
+     font-size:50px;
+}
+#more{
+    text-align:center;
+    color:red;
+    font-size:40;
+}
